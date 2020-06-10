@@ -5,7 +5,9 @@
 
 
 ## Descrição
-Aplicação desenvolvida durante a NWL, cujo principal objetivo e fornecer informações sobre ponto de coletas de resíduos para pessoas interessadas em um local que possa trata-ló de forma adequada
+Aplicação desenvolvida durante a NWL, cujo principal objetivo e fornecer informações sobre ponto de coletas de resíduos para pessoas interessadas em um local que possa trata-ló de forma adequada.
+
+Ulizando Node.Js no Back-end, React na aplicação Web e React Native na aplicação mobile.
 
 <h2> Pricipais stacks utilizadas </h2>
 <ul> 
