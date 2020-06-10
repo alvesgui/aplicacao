@@ -9,13 +9,13 @@ Aplicação desenvolvida durante a NWL, cujo principal objetivo e fornecer infor
 
 <h2> Pricipais stacks utilizadas </h2>
 <ul> 
-  <li>Javascript>
+  <li>Javascript</li>
     <ul> 
       <li>Node</li>
     </ul>
-  <li>React<li>
+  <li>React</li>
   <li>React-Native</li>
-  <li>typescript</li>
+  <li>Typescript</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
